@@ -1,1 +1,1 @@
-# Employee-Attrirtion-Prediction
+# Employee-Attrition-Prediction
